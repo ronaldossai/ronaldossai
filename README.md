@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronaldossai
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in artificial intelligence and physics
 - 🌱 I’m currently learning as much as I can
 - 💞️ I’m looking to collaborate on python, java projects
 - 📫 How to reach me ronjjossai@gmail.com
