@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @ronaldossai
-- 👀 I’m interested in artificial intelligence and physics
-- 🌱 I’m currently learning as much as I can
-- 💞️ I’m looking to collaborate on python, java projects
-- 📫 How to reach me ronjjossai@gmail.com
+# 👋 Hey there, I'm Ronald Ossai!  
+
+## 🚀 About Me  
+I'm a Computer Science and Artificial Intelligence student at the **University of Sussex**, with a deep passion for **quantum computing, theoretical physics, and low-level systems**. My expertise spans across **mathematics, AI, CPU architecture, and scientific computing**, and I'm always exploring new frontiers in technology and computation.  
+
+## 🔬 Interests & Skills  
+- **Quantum Computing & QISC-V Development**  
+- **Artificial Intelligence & Machine Learning**  
+- **Computer Architecture & Assembly Language**  
+- **Mathematics & Theoretical Physics**  
+- **High-Performance & Low-Level Programming**  
+
+## 🔧 Tech Stack  
+- **Languages:** Python, C, C++, Rust, JavaScript, Java, PHP
+- **AI & ML:** TensorFlow, PyTorch, NumPy  
+- **Systems & Low-Level:** RISC-V, x86 Assembly, Embedded C  
+- **Dev Tools:** Git, Linux, Docker  
+
+## 📫 Get in Touch   
+- LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/  
+
+
+---
+
+
+
 
 <!---
 ronaldossai/ronaldossai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
