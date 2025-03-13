@@ -4,7 +4,7 @@
 I'm a Computer Science and Artificial Intelligence student at the **University of Sussex**, with a deep passion for **quantum computing, theoretical physics, and low-level systems**. My expertise spans across **mathematics, AI, CPU architecture, and scientific computing**, and I'm always exploring new frontiers in technology and computation.  
 
 ## 🔬 Interests & Skills  
-- **Quantum Computing & QISC-V Development**  
+- **Quantum Computing**  
 - **Artificial Intelligence & Machine Learning**  
 - **Computer Architecture & Assembly Language**  
 - **Mathematics & Theoretical Physics**  
