@@ -8,7 +8,8 @@ I'm a Computer Science and Artificial Intelligence student at the **University o
 - **Artificial Intelligence & Machine Learning**  
 - **Computer Architecture & Assembly Language**  
 - **Mathematics & Theoretical Physics**  
-- **High-Performance & Low-Level Programming**  
+- **High-Performance & Low-Level Programming**
+- **Electronics/Electronic Engineering** 
 
 ## 🔧 Tech Stack  
 - **Languages:** Python, C, C++, Rust, JavaScript, Java, PHP
