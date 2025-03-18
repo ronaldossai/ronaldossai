@@ -13,7 +13,7 @@ I'm a Computer Science and Artificial Intelligence student at the **University o
 
 ## 🔧 Tech Stack  
 - **Languages:** Python, C, C++, Rust, JavaScript, Java, PHP
-- **AI & ML:** TensorFlow, PyTorch, NumPy  
+- **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK
 - **Systems & Low-Level:** RISC-V, x86 Assembly, Embedded C  
 - **Dev Tools:** Git, Linux, Docker  
 
