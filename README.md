@@ -5,7 +5,7 @@ I'm a Computer Science and Artificial Intelligence student at the **University o
 
 ## 🔬 Interests & Skills  
 - **Quantum Computing**  
-- **Artificial Intelligence & Machine Learning**  
+- **Artificial Intelligence, Natural Language processing & Machine Learning**  
 - **Computer Architecture & Assembly Language**  
 - **Mathematics & Theoretical Physics**  
 - **High-Performance & Low-Level Programming**
