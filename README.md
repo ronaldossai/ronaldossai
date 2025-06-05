@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ronald Ossai!  
 
 ## 🚀 About Me  
-I'm a Computer Science and Artificial Intelligence student at the **University of Sussex**, with a deep passion for **quantum computing, theoretical physics, and low-level systems**. My expertise spans across **mathematics, AI, CPU architecture, and scientific computing**, and I'm always exploring new frontiers in technology and computation.  
+I'm a Software developer, with a deep passion for **quantum computing, theoretical physics, and low-level systems**. My expertise spans across **mathematics, AI, CPU architecture, and scientific computing**, and I'm always exploring new frontiers in technology and computation.  
 
 ## 🔬 Interests & Skills  
 - **Quantum Computing**  
