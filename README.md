@@ -18,7 +18,8 @@ I'm a Software developer, with a deep passion for **full stack technologies, qua
 - **Dev Tools:** Git, Linux, Docker  
 
 ## 📫 Get in Touch   
-- LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/  
+- LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/
+- portfolio: https://ronald-ossai-portfolio.vercel.app
 
 
 ---
