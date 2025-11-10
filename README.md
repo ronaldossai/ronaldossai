@@ -12,7 +12,7 @@ I'm a Software developer, with a deep passion for **full stack technologies, qua
 - **Electronics/Electronic Engineering** 
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, JavaScript, TypeScript, Java, PHP, C#
+- **Languages:** Python, JavaScript, TypeScript, Java, PHP, C#, C++
 - **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK 
 
 ## 📫 Get in Touch   
