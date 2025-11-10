@@ -12,10 +12,8 @@ I'm a Software developer, with a deep passion for **full stack technologies, qua
 - **Electronics/Electronic Engineering** 
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, C, C++, JavaScript, TypeScript, Java, PHP, C#
-- **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK
-- **Systems & Low-Level:** RISC-V, x86 Assembly, Embedded C  
-- **Dev Tools:** Git, Linux, Docker  
+- **Languages:** Python, JavaScript, TypeScript, Java, PHP, C#
+- **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK 
 
 ## 📫 Get in Touch   
 - LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/
