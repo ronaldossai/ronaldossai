@@ -12,7 +12,8 @@ I'm a Software developer, with a passion for **full stack technologies, quantum 
 
 ## 🔧 Tech Stack  
 - **Languages:** Python, JavaScript, TypeScript, Java, PHP, C#, C++
-- **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK 
+- **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK
+- **CUDA**
 
 ## 📫 Get in Touch   
 - LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/
