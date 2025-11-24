@@ -11,7 +11,8 @@ I'm a Software developer, with a passion for **full stack technologies, quantum 
 - **Electronics/Electronic Engineering** 
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, JavaScript, TypeScript, Java, PHP, C#, C++
+- **Languages:** Python, JavaScript, TypeScript, Java, PHP
+- **Beginner Languages** C#, C++
 - **AI & ML:** TensorFlow, PyTorch, NumPy, NLTK
 - **CUDA**
 
