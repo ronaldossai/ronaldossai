@@ -12,8 +12,7 @@ I'm a Software developer, with a passion for full stack technologies, quantum co
 
 ## 🔧 Tech Stack  
 - **Languages:** Python, JavaScript, TypeScript, Java, PHP
-- **Beginner Languages** C#, C++
-- **CUDA**
+- **Beginner Languages** C#, C++ & **CUDA**
 
 ## 📫 Get in Touch   
 - LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/
