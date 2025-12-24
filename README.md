@@ -7,7 +7,7 @@ I'm a Software developer, with a passion for full stack technologies, quantum co
 - **Quantum Computing**  
 - **Artificial Intelligence, Natural Language processing & Machine Learning**   
 - **Applied Mathematics & Theoretical Physics**  
-- **High-Performance Computing (HPC) 
+- **High-Performance Computing (HPC)**
 - **Electronics/Electronic Engineering** 
 
 ## 🔧 Tech Stack  
