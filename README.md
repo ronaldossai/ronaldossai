@@ -1,7 +1,7 @@
 # Hey there, I'm Ronald Ossai!  
 
 ## About Me  
-I'm a Software developer, with a passion for full stack technologies, quantum computing, theoretical physics, and low-level systems. My expertise spans across applied mathematics, Artificial Intelligence, CPU architecture, and scientific computing.  
+I'm a Computer Scientist 
 
 ## Interests & Skills  
 - **FullStack Development**
