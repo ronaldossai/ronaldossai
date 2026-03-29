@@ -1,6 +1,5 @@
 # Hey there, I'm Ronald Ossai!  
 
-## About Me  
 I'm a Computer Scientist 
 
 ## Interests & Skills  
