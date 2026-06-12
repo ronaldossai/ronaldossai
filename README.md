@@ -12,7 +12,7 @@ I'm a Computer Scientist
 
 ## Tech Stack  
 - **Languages:** Python, JavaScript, TypeScript, Java, PHP
-- **Currently Exploring** C#, C++ & **CUDA**
+- **Currently Exploring** C#, C++, Lua & **CUDA**
 
 ## Get in Touch   
 - LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/
