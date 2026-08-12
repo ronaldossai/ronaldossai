@@ -17,6 +17,7 @@ I'm a Computer Scientist
 ## Get in Touch   
 - LinkedIn: https://www.linkedin.com/in/ronald-ossai-b66670206/
 - portfolio: https://ronald-ossai-portfolio.vercel.app
+- portfolio: ronaldossai.xyz
 
 
 ---
